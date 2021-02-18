@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "common.h": "c",
+        "ctype.h": "c",
+        "memory.h": "c",
+        "system_error": "c",
+        "string.h": "c"
+    }
+}
